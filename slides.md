@@ -25,6 +25,19 @@ mdc: true
 katex: true
 # favicon, can be a local file path or URL
 favicon: "/favicon.ico"
+
+# SEO meta tags
+seoMeta:
+  ogTitle: "From Code to Visualization: Reproducible Pipelines for Neuroimaging Research"
+  ogDescription: Presentation Slides for OHBM 2025 Educational Session
+  ogImage: https://sina-mansour.github.io/ohbm2025-reproducible-research/_images/slides.png
+  ogUrl: https://sina-mansour.github.io/ohbm2025-reproducible-research-slides/
+  twitterCard: summary_large_image
+  twitterTitle: "From Code to Visualization: Reproducible Pipelines for Neuroimaging Research"
+  twitterDescription: Presentation Slides for OHBM 2025 Educational Session
+  twitterImage: https://sina-mansour.github.io/ohbm2025-reproducible-research/_images/slides.png
+  twitterSite: Sina_Mansour_L
+  twitterUrl: https://sina-mansour.github.io/ohbm2025-reproducible-research-slides/
 ---
 
 ## From Code to Visualization:
