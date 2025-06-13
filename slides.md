@@ -23,6 +23,8 @@ transitionDuration: 2000
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 katex: true
+# favicon, can be a local file path or URL
+favicon: "/favicon.ico"
 ---
 
 ## From Code to Visualization:
