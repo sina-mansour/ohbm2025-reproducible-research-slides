@@ -5,3 +5,7 @@ Make sure to check out the supplementary Jupyter Book for this course, which con
 
 https://sina-mansour.github.io/ohbm2025-reproducible-research/
 
+Finally, if you would like to follow along with the slides, check out the link below:
+
+https://sina-mansour.github.io/ohbm2025-reproducible-research-slides/
+
